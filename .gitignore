@@ -1,0 +1,38 @@
+# Python virtual environment - never push this
+venv/
+env/
+.env/
+
+# Sensitive environment variables - NEVER push API keys
+.env
+*.env
+secrets.py
+
+# Python cache files - not needed
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Large data files
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+
+# ML model files - these are huge
+*.pkl
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# OS files
+.DS_Store
+Thumbs.db
