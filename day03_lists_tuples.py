@@ -109,4 +109,3 @@ predictions.sort(reverse=True)
 print(f"Top prediction: {predictions[0]}")
 print(f"Top 3 predictions: {predictions[:3]}")
 print(f"Total predictions: {len(predictions)}")
-
