@@ -1,0 +1,4 @@
+Line 1: Python is powerful
+Line 2: File I/O is essential for AI
+Line 3: Always use the with statement
+Line 4: Append later - data persists!

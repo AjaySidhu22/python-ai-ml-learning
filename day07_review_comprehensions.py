@@ -10,7 +10,7 @@ print("Squares:", squares)
 cubes = [x**3 for x in range(1, 6)]
 print("Cubes:", cubes)
 
-# --------, -- With condition ----------
+# ---------- With condition ----------
 scores = [85, 92, 45, 78, 95, 33, 88, 61, 74, 90]
 
 passed = [s for s in scores if s >= 60]
